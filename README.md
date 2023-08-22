@@ -43,3 +43,4 @@
 <br />
 
 ##
+[Snake animation](https://github.com/RaphaelRFreitas/RaphaelRFreitas/blob/output/github-contribution-grid-snake.svg)
