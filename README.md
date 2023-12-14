@@ -6,7 +6,7 @@
 ## About Me
 - 📓️ I’m currently studying Software Engineering at [INATEL](https://inatel.br/home/)
 - 🎓 Automation Industrial Technician
-- 💻 Software Engineer (Loading...90%)
+- 💻 Software Engineer
 - 📊 Data collection and analysis specialist
 - 🌐 Relentless explorer of databases
 
